@@ -1,8 +1,3 @@
-
-Below is a **clean, documentation-style explanation** of **`loading.tsx`**, followed by a **clear explanation of Promises (`resolve` / `reject`)**, and then the **benefits of `loading.tsx`**, including the points you listed (structured and expanded clearly).
-
----
-
 # `loading.tsx` in Next.js (App Router)
 
 ## 1. What is `loading.tsx`?
