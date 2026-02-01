@@ -92,10 +92,10 @@ export default function Error({
 
 ## 5. Explanation of Props
 
-|Prop|Description|
-|---|---|
-|`error`|The error object that was thrown|
-|`reset()`|Re-renders the segment and retries|
+| Prop      | Description                        |
+| --------- | ---------------------------------- |
+| `error`   | The error object that was thrown   |
+| `reset()` | Re-renders the segment and retries |
 
 ---
 

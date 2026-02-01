@@ -1,7 +1,3 @@
-Below is a **documentation-style explanation** of **server-side error recovery** using **`useRouter`** and **`startTransition`** in **Next.js (App Router)**, with clear concepts, component hierarchy, and working code examples.
-
----
-
 # Server-Side Error Recovery using `useRouter` and `startTransition`
 
 In Next.js App Router, **server errors** (thrown in Server Components, data fetching, or Server Actions) are handled by **`error.tsx`**.  

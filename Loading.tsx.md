@@ -1,3 +1,4 @@
+
 # `loading.tsx` in Next.js (App Router)
 
 ## 1. What is `loading.tsx`?
